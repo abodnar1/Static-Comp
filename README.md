@@ -14,25 +14,23 @@
 ## Project Overview
 The [Turing School of Software and Design](https://turing.edu/) provided a static comp for students to replicate using HTML and CSS. The goal of the project was to build something that respected the integrity of the original comp. A spec sheet for the project can be found [here](https://frontend.turing.edu/projects/M2-static-comp-challenge.html).
 
+#### Replicated Comp:
+
 #### Original Comp:
 ![Screen Shot 2022-05-26 at 9 43 35 PM](https://user-images.githubusercontent.com/99693359/170612103-59767ecf-d317-43e4-85d4-bf5e1d841508.png)
 
 #### WireFrame
 ![final-wireframe](https://user-images.githubusercontent.com/99693359/170833467-e4fd1df6-6f27-42d8-9ade-ba09315eb4f3.png)
 
-#### Replicated Comp:
-
-
 
 ## Technologies and Tools
 * HTML
 * CSS
 * Atom 
-* Agile
+* Excalidraw
 * Git
 * GitHub
-* GitHub Issues
-* GitHub Projects
+* Agile
 * MacOS Terminal
 * Google Chrome Dev-Tools
 
@@ -68,10 +66,9 @@ Amber Bodnar
 
 
 ## Sources
+* [Google Fonts & Icons](https://fonts.google.com/)
 * []()
 * []()
 * []()
 * []()
-* []()
-* Mentors - [Matt Roden](https://github.com/Matt-Roden) & [Lola Dolinsky](https://github.com/lo-la-do-li)
 * My peers in Cohort 2203
