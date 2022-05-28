@@ -1,4 +1,85 @@
 * {
   font-family: 'Roboto', sans-serif;
-  border: 2px solid grey;
+  font-size: 15px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border: 1px solid grey;
+}
+
+nav {
+  border: 1px solid black;
+  display: flex;
+  justify-content:
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.left-header-wrapper {
+  border: 1px solid magenta;
+  display: flex;
+  align-items: flex-end;
+}
+
+.right-header-wrapper {
+  border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.logo-wrapper {
+  border: 1px solid red;
+  display: flex;
+  text-align: right;
+  align-items: center;
+}
+
+.username-wrapper {
+  border: 1px solid blue;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+/* Cards */
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 1px solid pink;
+}
+
+.card-wrapper {
+  margin: 5px;
+  padding: 5px;
+  width: 300px;
+  box-shadow: 2px 2px 2px grey;
+  border: 1px solid purple;
+}
+.card-info-wrapper {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  border: 1px solid orange;
+}
+
+.views-wrapper {
+  text-align: center;
 }
