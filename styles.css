@@ -1,4 +1,37 @@
 * {
   font-family: 'Roboto', sans-serif;
-  border: 2px solid grey;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border: 1px solid grey;
+}
+
+nav {
+  border: 1px solid black;
+  display: flex;
+  justify-content:
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
+
+img
+
+.left-header-wrapper,
+.right-header-wrapper {
+  border: 1px solid magenta;
+  display: flex;
+  align-items: flex-end;
 }
