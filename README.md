@@ -17,6 +17,9 @@ The [Turing School of Software and Design](https://turing.edu/) provided a stati
 #### Original Comp:
 ![Screen Shot 2022-05-26 at 9 43 35 PM](https://user-images.githubusercontent.com/99693359/170612103-59767ecf-d317-43e4-85d4-bf5e1d841508.png)
 
+#### WireFrame
+![final-wireframe](https://user-images.githubusercontent.com/99693359/170833467-e4fd1df6-6f27-42d8-9ade-ba09315eb4f3.png)
+
 #### Replicated Comp:
 
 
