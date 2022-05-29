@@ -1,19 +1,25 @@
 * {
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px;
+  cursor: default;
 }
 
 header {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  border: 1px solid grey;
+  height: 110px;
+  padding: 7px;
+  background-color: #E9D9D7;
 }
 
 nav {
-  border: 1px solid black;
   display: flex;
-  justify-content:
+  justify-content: space-between;
+  height: 60px;
+  width: 450px;
 }
 
 ul {
@@ -26,60 +32,173 @@ ul {
 li {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 20px 20px 2px 20px;
+  font-size: 13px;
 }
 
-.left-header-wrapper {
-  border: 1px solid magenta;
-  display: flex;
-  align-items: flex-end;
+li:hover {
+  border-bottom: solid 1px;
+  cursor: pointer;
+}
+
+.drop-down-menu-icon:hover {
+  cursor: pointer;
+}
+
+body {
+  background-color: #F4ECEB;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 50px 20px 20px 20px;
 }
 
 .right-header-wrapper {
-  border: 1px solid green;
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  justify-content: space-between;
+  height: 110px;
 }
 
 .logo-wrapper {
-  border: 1px solid red;
   display: flex;
   text-align: right;
   align-items: center;
 }
 
 .username-wrapper {
-  border: 1px solid blue;
   display: flex;
   align-items: center;
-  padding: 10px;
 }
 
-/* Cards */
+.username {
+  font-size: 13px;
+  margin-left: 5px;
+}
 
+.logo-name {
+  font-size: 40px;
+  margin-right: 5px;
+}
+
+/* Card Section */
 .card-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  border: 1px solid pink;
 }
 
 .card-wrapper {
   margin: 5px;
   padding: 5px;
+  height: 450px;
   width: 300px;
   box-shadow: 2px 2px 2px grey;
-  border: 1px solid purple;
+  background-color: #FFFFFF;
 }
+
+.card-wrapper:hover{
+  transform: scale(1.1);
+  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
+
 .card-info-wrapper {
   display:flex;
-  justify-content: space-between;
-  align-items: center;
-  height: 120px;
-  border: 1px solid orange;
+  justify-content: right;
+  flex-direction: row;
+  height: 200px;
+  cursor: pointer;
 }
 
 .views-wrapper {
   text-align: center;
+  color: #FFFFFF;
+  margin: 20px 20px 0px 0px;
+}
+
+.views {
+  font-size: 15px;
+}
+
+.view-count {
+  font-size: 30px;
+}
+
+.card-body {
+  margin: 20px 10px 5px 5px;
+
+}
+
+h2 {
+  font-size: 20px;
+  margin: 5px 0px 15px 5px;
+}
+
+.date {
+  font-size: 14px;
+  margin: 5px 0px 0px 5px;
+}
+
+.grey-description-box {
+  background-color: #EFEFEF;
+  margin: 5px;
+  padding: 5px;
+  height: 60px;
+  width: 270px;
+  text-align: left;
+  font-size: 12px;
+}
+
+h3 {
+  font-size: 12px;
+  margin: 20px 0px 6px 5px;
+}
+
+.attachment-count {
+  font-size: 30px;
+  margin: 0px 0px 6px 5px;
+}
+
+/* Card Images*/
+.card1 {
+  background-image: url("./assets/1-unsplash.jpg");
+  background-size: cover;
+}
+
+.card2 {
+  background-image: url("./assets/2-unsplash.jpg");
+  background-size: cover;
+}
+
+.card3 {
+  background-image: url("./assets/3-unsplash.jpg");
+  background-size: cover;
+}
+
+.card4 {
+  background-image: url("./assets/4-unsplash.jpg");
+  background-size: cover;
+}
+
+.card5 {
+  background-image: url("./assets/5-unsplash.jpg");
+  background-size: cover;
+}
+
+.card6 {
+  background-image: url("./assets/6-unsplash.jpg");
+  background-size: cover;
+}
+
+.card7 {
+  background-image: url("./assets/7-unsplash.jpg");
+  background-size: cover;
+}
+
+.card8 {
+  background-image: url("./assets/8-unsplash.jpg");
+  background-size: cover;
 }
