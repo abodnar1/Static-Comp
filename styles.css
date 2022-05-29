@@ -85,11 +85,46 @@ h2 {
 
 .views-wrapper {
   text-align: center;
+  color: #FFFFFF;
 }
 
 /* Card Images*/
-
-/* .card1 {
+.card1 {
   background-image: url("./assets/1-unsplash.jpg");
   background-size: cover;
-} */
+}
+
+.card2 {
+  background-image: url("./assets/2-unsplash.jpg");
+  background-size: cover;
+}
+
+.card3 {
+  background-image: url("./assets/3-unsplash.jpg");
+  background-size: cover;
+}
+
+.card4 {
+  background-image: url("./assets/4-unsplash.jpg");
+  background-size: cover;
+}
+
+.card5 {
+  background-image: url("./assets/5-unsplash.jpg");
+  background-size: cover;
+}
+
+.card6 {
+  background-image: url("./assets/6-unsplash.jpg");
+  background-size: cover;
+}
+
+.card7 {
+  background-image: url("./assets/7-unsplash.jpg");
+  background-size: cover;
+}
+
+.card8 {
+  background-image: url("./assets/8-unsplash.jpg");
+  background-size: cover;
+}
