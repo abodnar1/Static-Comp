@@ -15,7 +15,7 @@
 The [Turing School of Software and Design](https://turing.edu/) provided a static comp for students to replicate using HTML and CSS. The goal of the project was to build something that respected the integrity of the original comp's layout. Creative liberties were allowed with Text, Images & Icons, Fonts, and Color. A spec sheet for the project can be found [here](https://frontend.turing.edu/projects/M2-static-comp-challenge.html).
 
 #### Replicated Comp:
-![giphy](https://media.giphy.com/media/efJ5EI9HSnNGz0yRVn/giphy.gif)
+![gif](https://media.giphy.com/media/jb5KfOHh1AI2awhHJx/giphy.gif)
 
 
 #### Original Comp:
