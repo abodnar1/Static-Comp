@@ -31,8 +31,17 @@ ul {
 li {
   display: flex;
   align-items: center;
-  padding: 20px;
+  padding: 20px 20px 2px 20px;
   font-size: 13px;
+}
+
+li:hover {
+  border-bottom: solid 1px;
+  cursor: pointer;
+}
+
+.drop-down-menu-icon:hover {
+  cursor: pointer;
 }
 
 body {
@@ -73,8 +82,7 @@ h1 {
   margin-right: 5px;
 }
 
-/* Cards */
-
+/* Card Section */
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -88,6 +96,12 @@ h1 {
   width: 300px;
   box-shadow: 2px 2px 2px grey;
   background-color: #FFFFFF;
+}
+
+.card-wrapper:hover{
+  transform: scale(1.1);
+  box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
+  cursor: pointer;
 }
 
 .card-info-wrapper {
