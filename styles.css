@@ -7,13 +7,16 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  height: 110px;
   border: 1px solid grey;
 }
 
 nav {
   border: 1px solid black;
   display: flex;
-  justify-content:
+  justify-content: space-between;
+  height: 60px;
+  width: 450px;
 }
 
 ul {
@@ -27,12 +30,12 @@ li {
   display: flex;
   align-items: center;
   padding: 20px;
+  font-size: 13px;
 }
 
-.left-header-wrapper {
-  border: 1px solid magenta;
-  display: flex;
-  align-items: flex-end;
+h1 {
+  font-size: 30px;
+  margin-left: 20px;
 }
 
 .right-header-wrapper {
@@ -40,6 +43,8 @@ li {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  justify-content: space-between;
+  height: 110px;
 }
 
 .logo-wrapper {
@@ -53,7 +58,16 @@ li {
   border: 1px solid blue;
   display: flex;
   align-items: center;
-  padding: 10px;
+}
+
+.username {
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+.logo-name {
+  font-size: 25px;
+  margin-right: 5px;
 }
 
 /* Cards */
@@ -96,9 +110,14 @@ li {
   font-size: 30px;
 }
 
+.card-body {
+  margin: 20px 10px 5px 5px;
+
+}
+
 h2 {
   font-size: 20px;
-  margin: 5px 0px 0px 5px;
+  margin: 5px 0px 6px 5px;
 }
 
 .date {
@@ -111,15 +130,20 @@ h2 {
   margin: 5px;
   padding: 5px;
   height: 60px;
-  width: 280px;
+  width: 270px;
   text-align: left;
   font-size: 12px;
 }
 
+h3 {
+  font-size: 12px;
+  margin: 20px 0px 6px 5px;
+}
 
-
-
-
+.attachment-count {
+  font-size: 30px;
+  margin: 0px 0px 6px 5px;
+}
 
 /* Card Images*/
 .card1 {
