@@ -29,9 +29,6 @@ li {
   padding: 20px;
 }
 
-h2 {
-  font-size: 20px;
-}
 .left-header-wrapper {
   border: 1px solid magenta;
   display: flex;
@@ -71,14 +68,16 @@ h2 {
 .card-wrapper {
   margin: 5px;
   padding: 5px;
+  height: 450px;
   width: 300px;
   box-shadow: 2px 2px 2px grey;
   border: 1px solid purple;
 }
+
 .card-info-wrapper {
   display:flex;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: right;
+  flex-direction: row;
   height: 200px;
   border: 1px solid orange;
 }
@@ -86,7 +85,39 @@ h2 {
 .views-wrapper {
   text-align: center;
   color: #FFFFFF;
+  margin: 20px 20px 0px 0px;
 }
+
+.views {
+  font-size: 15px;
+}
+
+.view-count {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 5px 0px 0px 5px;
+}
+
+.date {
+  font-size: 14px;
+  margin: 5px 0px 0px 5px;
+}
+
+.grey-description-box {
+  background-color: #EFEFEF;
+  margin: 5px;
+  padding: 5px;
+  height: 60px;
+  width: 280px;
+  text-align: left;
+  font-size: 12px;
+}
+
+
+
 
 /* Card Images*/
 .card1 {
