@@ -1,6 +1,6 @@
 * {
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 header {
@@ -29,6 +29,9 @@ li {
   padding: 20px;
 }
 
+h2 {
+  font-size: 20px;
+}
 .left-header-wrapper {
   border: 1px solid magenta;
   display: flex;
@@ -76,10 +79,17 @@ li {
   display:flex;
   justify-content: space-between;
   align-items: center;
-  height: 120px;
+  height: 200px;
   border: 1px solid orange;
 }
 
 .views-wrapper {
   text-align: center;
 }
+
+/* Card Images*/
+
+/* .card1 {
+  background-image: url("./assets/1-unsplash.jpg");
+  background-size: cover;
+} */
