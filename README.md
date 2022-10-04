@@ -13,7 +13,7 @@ Visit the deployed site [here](https://abodnar1.github.io/static-comp/).
 
 
 ## Project Overview
-The [Turing School of Software and Design](https://turing.edu/) provided a static comp for students to replicate using HTML and CSS. The goal of the project was to build something that respected the integrity of the original comp's layout. Creative liberties were allowed with Text, Images & Icons, Fonts, and Color. A spec sheet for the project can be found [here](https://frontend.turing.edu/projects/M2-static-comp-challenge.html).
+The [Turing School of Software and Design](https://turing.edu/) provided a static comp to replicate using HTML and CSS. The goal of the project was to build something that respected the integrity of the original comp's layout. Creative liberties were allowed with Text, Images & Icons, Fonts, and Color.
 
 #### Replicated Comp:
 ![May-29-2022 15-18-12](https://user-images.githubusercontent.com/99693359/170887852-06ab2c0b-4a3b-47c5-8421-3177e49be7a0.gif)
@@ -73,3 +73,5 @@ Amber Bodnar
 * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [RoselawnDesigns on Etsy](https://www.etsy.com/shop/RoselawnDesigns?ref=shop_sugg)
 * [Unsplash - Freely-useable Images](https://unsplash.com/)
+
+*A spec sheet for the project can be found [here](https://frontend.turing.edu/projects/M2-static-comp-challenge.html).*
