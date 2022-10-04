@@ -1,12 +1,13 @@
 # Static-Comp Project
 
+Visit the deployed site [here](https://abodnar1.github.io/static-comp/).
+
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Setup](#setup)
 - [Technologies and Tools](#technologies-and-tools)
-- [Deployed Page](#deployed-page)
 - [Project Reflections](#project-reflections)
 - [Roadmap](#roadmap)
-- [Setup](#setup)
 - [Contributors](#contributors)
 - [Sources](#sources)
 
@@ -24,20 +25,23 @@ The [Turing School of Software and Design](https://turing.edu/) provided a stati
 ![final-wireframe](https://user-images.githubusercontent.com/99693359/170833467-e4fd1df6-6f27-42d8-9ade-ba09315eb4f3.png)
 
 
+## Setup
+1. Fork this Repo
+2. Clone it down to your machine
+3. `cd` into the root of the project directory
+4. Run `open index.html` in your terminal
+
+
 ## Technologies and Tools
 * HTML
 * CSS
-* Atom 
 * Excalidraw
 * Git
 * GitHub
-* Agile
+* Agile workflow
+* Atom
 * MacOS Terminal
 * Google Chrome Dev-Tools
-
-
-## Deployed Page
-You can access this project through the deployed page [here](https://abodnar1.github.io/static-comp/).
 
 
 ## Project Reflections
@@ -55,13 +59,6 @@ You can access this project through the deployed page [here](https://abodnar1.gi
 Future features could include:
 * Add ARIA roles to HTML to improve accessibility
 * Make improvements for device compatibility
-
-
-## Setup
-1. Fork this Repo
-2. Clone it down to your machine
-3. `cd` into the root of the project directory
-4. Run `open index.html` in your terminal
 
 
 ## Contributors
