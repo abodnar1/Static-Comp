@@ -5,6 +5,7 @@ Visit the deployed site [here](https://abodnar1.github.io/static-comp/).
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Setup](#setup)
+- [Accessibility](#accessibility)
 - [Technologies and Tools](#technologies-and-tools)
 - [Project Reflections](#project-reflections)
 - [Roadmap](#roadmap)
@@ -30,6 +31,12 @@ The [Turing School of Software and Design](https://turing.edu/) provided a stati
 2. Clone it down to your machine
 3. `cd` into the root of the project directory
 4. Run `open index.html` in your terminal
+
+
+## Accessibility
+Accessibility was audited using Lighthouse.
+</br>
+<img width="190" alt="Screen Shot 2022-10-04 at 12 20 40 PM" src="https://user-images.githubusercontent.com/99693359/193873002-c91ff2dd-df35-49fb-b503-87c6c17fa9f6.png">
 
 
 ## Technologies and Tools
