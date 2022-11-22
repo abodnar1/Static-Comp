@@ -64,8 +64,8 @@ Accessibility was audited using Lighthouse.
 
 ## Roadmap
 Future features could include:
-* Add ARIA roles to HTML to improve accessibility
-* Make improvements for device compatibility
+* Add ARIA roles to HTML to further improve screen-reader accessibility
+* Add responsive CSS for better device compatibility
 
 
 ## Contributors
