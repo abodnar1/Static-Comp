@@ -1,6 +1,6 @@
 # Static-Comp Project
 
-Visit the deployed site [here](https://abodnar1.github.io/static-comp/).
+Visit the deployed site [here](https://static-comp-phi.vercel.app/).
 
 ## Table of Contents
 - [Project Overview](#project-overview)
